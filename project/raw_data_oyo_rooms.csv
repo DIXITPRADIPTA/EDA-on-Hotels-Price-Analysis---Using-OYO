@@ -1,0 +1,401 @@
+,Hotel_Names,Distance,Address,City,Ratings,Votes,Prices,Features
+0,OYO Flagship 704007 Hotel Ashoka Classic,0.4 km,Hyderabad,"['Hyderabad', 'Hyderabad']",4.1,['35'],626, Elevator  Geyser  Power backup  
+1,OYO Flagship 80484 Simra Relax Inn,4.1 km,Hyderabad,"['Hyderabad', 'Hyderabad']",4.6,['37'],626, Geyser  Power backup  AC  
+2,OYO 14669 Mayur's Residency,2.4 km,"Near Sri Krupa Market, Malakpet",['Hyderabad'],4.0,['1014'],614, Free Wi-Fi  AC  AC  
+3,OYO 88286 Hotel Padmini,3.4 km,Lakdikapul,['Hyderabad'],3.7,['245'],814, Hair Dryer  Reception  Power backup  
+4,OYO SilverKey 74144 Himayat Nagar Circle,1.3 km,Narayanguda,['Hyderabad'],3.6,['2202'],936, Private entrance  Hair Dryer  Reception  
+5,OYO Townhouse 600 Gangothri,5.7 km,Near RP Road BUS STOP,[],4.4,['3179'],1300, Private entrance  Parking facility  Reception  
+6,OYO Flagship 80454 Hotel Elite Stay,8.4 km,Telangana,['Hyderabad'],4.2,['44'],626, Geyser  Power backup  AC  
+7,OYO 49253 Raja Residency,3.7 km,"Near Raja Deluxe Complex, Musheerabad",['Hyderabad'],4.2,['3862'],918, Private entrance  Parking facility  Reception  
+8,OYO 24204 Nav Bharath Residency,1.0 km,"Near Central Gurudwara Saheb, Gowliguda",['Hyderabad'],4.3,['1506'],936, Reception  Free Wi-Fi  Power backup  
+9,OYO 91284 Ambica Lodge,5.5 km,Punjagutta,['Hyderabad'],3.5,['179'],931, Parking facility  Free Wi-Fi  Geyser  
+10,OYO 40852 Hotel White Ridge,4.6 km,"Near Dilsukhnagar metro station, Krishna Nagar.",['Hyderabad'],4.3,['2134'],868, Parking facility  Reception  Free Wi-Fi  
+11,OYO Townhouse White Ridge 112 Shivam Road,2.7 km,New Nallakunta,['Hyderabad'],4.1,['2573'],1490, Parking facility  Reception  Free Wi-Fi  
+12,Capital O 9796 Hotel Alekhya Residency,3.3 km,"Near Global Hospital, Saifabad",['Hyderabad'],4.0,['810'],1062, Free Wi-Fi  CCTV cameras  Power backup  
+13,OYO 70927 Hotel Hyderabad Continental,0.7 km,"Near Tarakarama Theatre, Sultan Bazar",['Hyderabad'],3.8,['1519'],1345, TV  King Sized Bed  Dress Hanger  
+14,Flagship 77043 Malkajgiri,8.8 km,Malkajgiri,['Hyderabad'],4.2,['3156'],546, Parking facility  Reception  Free Wi-Fi  
+15,OYO 16428 Hotel Vaishnavi Inn,5.4 km,Secunderabad,['Hyderabad'],4.2,['2284'],874, Free Wi-Fi  Power backup  Card payment  
+16,OYO 6651 Hotel Srujana Stay Inn,2.0 km,Nampally,['Hyderabad'],4.0,['1426'],1032, Elevator  Free Wi-Fi  Geyser  
+17,OYO 79037 Metro Lodge,3.0 km,Charminar,['Hyderabad'],3.6,['326'],562, Wakeup service  Free Wi-Fi  Caretaker  
+18,Capital O 44585 Sri Suprabhat Grand,0.8 km,Nera Venkataramana Theater,['Hyderabad'],4.0,['483'],1231, Parking facility  Reception  Free Wi-Fi  
+19,Capital O 15959 The City Park,1.5 km,"Near The City Park, Chirag AlicLane",['Hyderabad'],3.8,['1297'],1158, Reception  Free Wi-Fi  Power backup  
+20,OYO 68404 Sa Thirumala Residency,2.2 km,"Near VRK Silks, Himayatnagar",['Hyderabad'],3.8,['579'],721, Reception  Security  24/7 check-in  
+21,SPOT ON 80459 Deccan Residency,5.1 km,Punjagutta,['Hyderabad'],2.0,['11'],444, AC  TV 
+22,OYO Flagship 805121 Royal Galaxy Lodge,1.7 km,India - 500012,['Hyderabad'],NEW,[],823, AC  TV 
+23,Capital O 11079 Hotel Prestige,6.3 km,"Centrally Located, Near Sun Shine Hospital, Paradise Road",['Hyderabad'],4.4,['4229'],1580, Parking facility  Elevator  Free Wi-Fi  
+24,OYO 16428 Hotel Vaishnavi Inn,5.4 km,Secunderabad,['Hyderabad'],4.2,['2284'],874, Free Wi-Fi  Power backup  Card payment  
+25,SPOT ON 75815 Hotel Kanha Residency,3.1 km,India,['Hyderabad'],3.8,['141'],816, Reception  Onsen/Hot Spring  Geyser  
+26,Flagship 49255 Hotel New Simran Palace,6.4 km,Near Paradise Circle,['Hyderabad'],3.2,['152'],550, Reception  Power backup  Daily housekeeping  
+27,OYO 88286 Hotel Padmini,3.4 km,Lakdikapul,['Hyderabad'],3.7,['245'],814, Hair Dryer  Reception  Power backup  
+28,Flagship 77043 Malkajgiri,8.8 km,Malkajgiri,['Hyderabad'],4.2,['3156'],546, Parking facility  Reception  Free Wi-Fi  
+29,OYO 13300 Hotel New Platinum,3.1 km,"Saleemnagar Colony, Malakpet",['Hyderabad'],3.3,['190'],856, Free Wi-Fi  Power backup  Full Sized Bed  
+30,Townhouse OAK Hotel Belsons Taj Mahal,6.4 km,"Near Swapnalok Complex, Patny Centre",['Hyderabad'],4.4,['565'],1647, Doctor on call  Reception  Power backup  
+31,Capital O 44585 Sri Suprabhat Grand,0.8 km,Nera Venkataramana Theater,['Hyderabad'],4.0,['483'],1231, Parking facility  Reception  Free Wi-Fi  
+32,OYO 82310 Holiday Inn,6.6 km,Telangana,['Hyderabad'],4.1,['744'],546, Doctor on call  Parking facility  Reception  
+33,OYO Flagship 80444 Hrr Hotels,6.4 km,secunderabad-500003,['Hyderabad'],2.2,['14'],626, Elevator  Geyser  Power backup  
+34,OYO 10139 Hotel Palak Residency,9.9 km,"Metro Pillar no: A947, 2nd Floor, Beside Erragadda Metro Station, Above Bajaj Showroom",['Hyderabad'],4.0,['2210'],886, Elevator  Free Wi-Fi  Geyser  
+35,OYO Townhouse RCC Majestic 397 LB Nagar,6.1 km,Champapet,['Hyderabad'],4.7,['3516'],2199, Parking facility  Free Wi-Fi  AC  
+36,OYO 82030 Hotel Happy Rooms,6.4 km,Secundrabad,['Hyderabad'],3.3,['61'],618, Reception  Public washroom  Free Wi-Fi  
+37,OYO Townhouse 81794 Banjara Hills,4.3 km,Masab Tank,['Hyderabad'],3.8,['1113'],1049, Modern wardrobe  Modern wardrobe  AC  
+38,OYO 70927 Hotel Hyderabad Continental,0.7 km,"Near Tarakarama Theatre, Sultan Bazar",['Hyderabad'],3.8,['1519'],1345, TV  King Sized Bed  Dress Hanger  
+39,OYO 84232 Hotel Lavish Stay,7.8 km,"LB Nagar Siris Road, St.Alphonsa Grammar School Kaman,Above Bhuvesh Hospital,Hyderabad,500074",['Hyderabad'],3.6,['287'],562, Reception  Geyser  CCTV cameras  
+40,OYO 89644 Hotel R Square,6.2 km,Balapur,['Hyderabad'],4.2,['143'],682, Reception  Caretaker  Bedside Table / Desk  
+41,Flagship 65280 Hotel Nandini,8.0 km,"Near Sri Nagar Colony, Krishna Nagar",['Hyderabad'],3.2,['286'],550, Parking facility  Reception  Free Wi-Fi  
+42,SPOT ON 804524 Sri Sai Lohith Lodge,6.1 km,Red Cross Road,['Hyderabad'],2.8,['43'],566, Geyser  Power backup  AC  
+43,SPOT ON 82436 Gopi Mini Guest House,9.7 km,Erragadda,['Hyderabad'],4.3,['101'],691, Parking facility  Free Wi-Fi  Power backup  
+44,OYO Flagship 80454 Hotel Elite Stay,8.4 km,Telangana,['Hyderabad'],4.2,['44'],626, Geyser  Power backup  AC  
+45,OYO 84238 Hotel Ragas Elite,8.2 km,500068,['Hyderabad'],3.7,['138'],614, Reception  Geyser  Daily housekeeping  
+46,Flagship 67479 Alpine Glow Zenith,8.0 km,"Near Malani Colony, Bowenpally",['Hyderabad'],4.2,['1769'],1040, Reception  Free Wi-Fi  Power backup  
+47,Capital O 15959 The City Park,1.5 km,"Near The City Park, Chirag AlicLane",['Hyderabad'],3.8,['1297'],1158, Reception  Free Wi-Fi  Power backup  
+48,OYO Home 79961 Comfortable Stays,4.0 km,Karan Bagh,['Hyderabad'],3.9,['858'],978, Free Wi-Fi  AC  TV  
+49,OYO 91089 Hotel Aman International,9.0 km,India - 500005,['Hyderabad'],3.0,['42'],621, Parking facility  Reception  Bedside Table / Desk  
+50,OYO 30665 Sruan Inn,9.7 km,Abhyudaya Nagar,['Hyderabad'],3.4,['70'],614, Parking facility  Reception  Free Wi-Fi  
+51,Capital O 23543 Hotel Vaishnavi,6.1 km,"Near Csi Wesley Church, Paras Towers",['Hyderabad'],4.2,['1608'],1434, Reception  Free Wi-Fi  24/7 check-in  
+52,OYO SilverKey 74144 Himayat Nagar Circle,1.3 km,Narayanguda,['Hyderabad'],3.6,['2202'],936, Private entrance  Hair Dryer  Reception  
+53,SPOT ON 80705 Balaji Residency,5.5 km,Khairatabad,['Hyderabad'],3.6,['1003'],984, AC  TV 
+54,OYO 91495 Hotel Vijay Laxmi Residency,9.8 km,Erragadda Metro Station,[],4.0,['564'],626, Parking facility  Reception  Ticket tour assistance  
+55,OYO 61506 Sai Residency,8.7 km,"Near Sr nagar metro station, Jawahar Nagar",['Hyderabad'],3.5,['615'],640, Reception  Free Wi-Fi  Geyser  
+56,OYO Townhouse 113 The Shubham Dilsukhnaga,5.2 km,Kothapet,['Hyderabad'],3.5,['1257'],950, Free Wi-Fi  AC  TV 
+57,OYO Townhouse 164 ESI Hospital,8.8 km,Sanath Nagar,['Hyderabad'],4.5,['4565'],2025, Private entrance  Reception  Free Wi-Fi  
+58,OYO 87972 City Holiday,4.5 km,Rangareddy,['Hyderabad'],4.1,['956'],1049, Parking facility  Reception  Free Wi-Fi  
+59,Flagship 75711 Kachiguda Railway Station,1.1 km,"Near Kumar Theatre, Kachiguda",['Hyderabad'],3.5,['873'],1242, Living Room  Reception  Washing Machine  
+60,OYO Townhouse White Ridge 112 Shivam Road,2.7 km,New Nallakunta,['Hyderabad'],4.1,['2573'],1490, Parking facility  Reception  Free Wi-Fi  
+61,Collection O 3169 Hotel Lotus Grand,5.8 km,Secunderabad,['Hyderabad'],3.9,['2153'],1136, Parking facility  Free Wi-Fi  Power backup  
+62,Capital O 65104 Che Sigma Hotel,8.6 km,"Near Narayana High School, Chinthalkunta",['Hyderabad'],3.8,['2132'],1032, Parking facility  Reception  Free Wi-Fi  
+63,OYO Townhouse 196 De Alphabet,4.9 km,"Near Sai Baba Temple, Gudimalkapur",['Hyderabad'],4.2,['3372'],1447, Parking facility  Reception  Free Wi-Fi  
+64,Flagship 76655 Goldhorn Hotels Mehdipatnam,5.3 km,Mehdipatnam,['Hyderabad'],4.2,['1948'],924, Living Room  Cot  Washing Machine  
+65,OYO 37427 Hotel Shannu Grand,8.9 km,"Near Apollo Pharmacy, Secunderabad",['Hyderabad'],4.0,['1317'],965, Parking facility  Reception  Free Wi-Fi  
+66,Flagship 75519 White Ridge,6.6 km,"Near Sai Sanjeevani Hospital, Huda Colony",['Hyderabad'],4.0,['2048'],999, Private entrance  Parking facility  Reception  
+67,Collection O 81203 Shining Suites,10.0 km,Near Erragadda Metro,['Hyderabad'],3.5,['421'],702, Free Wi-Fi  Geyser  Daily housekeeping  
+68,Capital O 10225 Wild Wings Hotel,6.0 km,"Laxmi Nagar Colony, Kothapet",['Hyderabad'],4.0,['827'],1314, Parking facility  Free Wi-Fi  Power backup  
+69,OYO 14726 Hotel Vaishnavi Park,5.8 km,"Near Monda Market, Shivaji Nagar",['Hyderabad'],3.7,['1582'],1015, Elevator  Free Wi-Fi  Geyser  
+70,OYO 91284 Ambica Lodge,5.5 km,Punjagutta,['Hyderabad'],3.5,['179'],931, Parking facility  Free Wi-Fi  Geyser  
+71,OYO 89107 Royal Stay,8.3 km,Ranga Reddy,['Hyderabad'],4.4,['442'],834, Reception  Free Wi-Fi  AC  
+72,OYO Townhouse 600 Gangothri,5.7 km,Near RP Road BUS STOP,[],4.4,['3179'],1300, Private entrance  Parking facility  Reception  
+73,OYO Flagship 80468 Hotel R Square,4.9 km,Dilsukhnagar,['Hyderabad'],3.2,['26'],1025, Geyser  Power backup  AC  
+74,OYO 88350 Hanuma Residency,6.9 km,Behind OZONE Hospital,[],3.9,['1042'],798, Hair Dryer  Parking facility  Reception  
+75,Collection O 9386 Hotel Happy Stay,6.9 km,"Near ICICI Bank, Begumpet",['Hyderabad'],3.8,['1711'],1136, AC  TV 
+76,OYO 40869 White Ridge,7.1 km,"Near Sanjeevini Hospital, Kothapet road",['Hyderabad'],4.2,['1815'],856, Reception  Free Wi-Fi  Power backup  
+77,OYO Home 79924 Pramod Prime Homes,8.1 km,Nagole,['Hyderabad'],4.3,['1503'],1215, Free Wi-Fi  TV  AC 
+78,SPOT ON 81775 Mohit Gokul Lodge New Room's,5.9 km,Near To Secunderbad East Metro Rail Station,['Hyderabad'],3.5,['657'],901, Parking facility  Reception  Free Wi-Fi  
+79,OYO Townhouse 862 Che Sigma,9.0 km,Malkajgiri,['Hyderabad'],4.2,['2685'],1507, Parking facility  Reception  Ticket tour assistance  
+80,OYO Flagship 805239 Qualia Hotel Dilsukhnagar,4.5 km,dilshuknagar,['Hyderabad'],4.1,['19'],1154, Elevator  Geyser  Power backup  
+81,Flagship 76687 Ramoji Kothapet,5.8 km,Kothapet,['Hyderabad'],4.0,['2232'],1257, Private entrance  Reception  Free Wi-Fi  
+82,OYO 11316 Athithi Inn,6.8 km,"Near Maithrivanam Complex, Ameerpet",['Hyderabad'],3.7,['2571'],1310, Parking facility  Free Wi-Fi  Power backup  
+83,SPOT ON 70822 Pnd Complex,7.9 km,R c i Rd,['Hyderabad'],3.8,['617'],889, Hair Dryer  Reception  Daily housekeeping  
+84,OYO 86305 Hotel Aroma Classic,1.6 km,15-1-309 Feelkhana Near Acharaya Bhavan Baba Ramdav Mandir Bagum Bazar Hyderabad,"['Hyderabad', 'Hyderabad']",4.0,['530'],1418, Reception  Public washroom  Free Wi-Fi  
+85,Capital O 897 Hotel Surabhi Elite,6.8 km,Kothapet,['Hyderabad'],4.0,['1081'],1660, Free Wi-Fi  AC  TV  
+86,Collection O 7601 Hotel Park Heights Banjara Hills,6.6 km,Banjara Hills,['Hyderabad'],3.7,['742'],1198, Parking facility  Free Wi-Fi  Power backup  
+87,OYO 701448 Heavens Inn,6.5 km,Secunderabad Mandal,['Hyderabad'],3.6,['237'],967, Reception  Free Wi-Fi  Geyser  
+88,OYO Flagship 2635 Hotel Balaji Residency,1.7 km,"Near TVS Showroom, Himayatnagar",['Hyderabad'],3.7,['13'],1749, Parking facility  Elevator  Free Wi-Fi  
+89,Flagship 14224 Happy Guest House,7.3 km,"Near Star Super Market, Banjara Hills",['Hyderabad'],3.9,['698'],1170, Free Wi-Fi  AC  AC  
+90,Collection O 42514 Banjara Hills,7.1 km,"Near Aasha hospital, Venkat Nagar",['Hyderabad'],4.3,['1743'],1827, Parking facility  Reception  Free Wi-Fi  
+91,Flagship 75583 Thatipally Mansion,6.8 km,Kothapet.,['Hyderabad'],4.0,['2322'],1485, Reception  Free Wi-Fi  Power backup  
+92,OYOFlagship 80467H Hotel R Square ,7.6 km,LB NAGAR,['Hyderabad'],3.7,['20'],1125, Geyser  Power backup  AC  
+93,OYO 1108 Hotel Saraswathi Residency,8.4 km,"Near Nalanda School, S.R. Nagar",['Hyderabad'],4.2,['366'],1866, Elevator  Free Wi-Fi  Geyser  
+94,OYO Flagship 600 Hotel Skyhy,1.5 km,"Near Old MLA Quarters, Himayathnagar",['Hyderabad'],3.2,['207'],1749, Parking facility  Free Wi-Fi  Power backup  
+95,OYO SilverKey 81097 Silverkey Halcyon Magnus,9.2 km,Sanath Nagar,['Hyderabad'],3.8,['5237'],2076, AC  TV  Queen Sized Bed  
+96,Collection O 80304 Hotel Pnr Banjara Hills,6.4 km,Guru Bramaha,['Hyderabad'],3.7,['786'],1721, Parking facility  Elevator  Free Wi-Fi  
+97,OYO Townhouse 1118 S R Nagar,8.3 km,Khairatabad Mandal,['Hyderabad'],3.4,['457'],1482, Parking facility  Reception  Free Wi-Fi  
+98,Townhouse OAK Sri Simran Park Hotel,6.0 km,"Near Railway station, Secunderabad",['Hyderabad'],3.4,['606'],1510, Parking facility  Free Wi-Fi  Power backup  
+99,Flagship 983 Hotel Surya Residency,7.5 km,"Near SR Nagar Police Station, Ameerpet",['Hyderabad'],4.1,['312'],1727, Parking facility  Elevator  Free Wi-Fi  
+100,SPOT ON 41554 Hotel Sri Thirumala Paradise,2.8 km,Sevashrama,['Bangalore'],4.6,['3632'],559, Free Wi-Fi  CCTV cameras  Power backup  
+101,SPOT ON 65593 Yatra Inn,2.0 km,Lalbagh,['Bangalore'],4.6,['2717'],829, Reception  Free Wi-Fi  CCTV cameras  
+102,Capital O 36457 Boulevard Madiwala,5.5 km,B t m Layout,['Bangalore'],4.3,['2216'],1063, Private entrance  Reception  Free Wi-Fi  
+103,Flagship 14397 Varcity Phi Pavilion,6.1 km,B t m Layout,['Bangalore'],4.3,['4067'],921, Living Room  Washing Machine  Balcony  
+104,Capital O 62949 Regal Suites,4.8 km,"Centrally Located, Near Sagar Hospital, Hombegowda Nagar",['Bangalore'],4.0,['1125'],711, Hair Dryer  Parking facility  Reception  
+105,OYO Townhouse 180 Jayanagar,4.8 km,"Near Sagar Hospital, Tilak Nagar",['Bangalore'],4.5,['3187'],1520, Free Wi-Fi  AC  TV 
+106,OYO 15358 Hotel Townhall,1.6 km,"Near Dhanlakshmi Bank, JC Road",['Bangalore'],4.1,['1259'],693, Elevator  Parking facility  Free Wi-Fi  
+107,Capital O 23461 Champion Lotus,5.4 km,"Near IIFT, Vijayanagar",['Bangalore'],4.3,['1284'],898, Reception  Power backup  Security  
+108,OYO 9605 Hotel Golden Inn,2.0 km,"Centrally Located, Near HKP Road, Shivaji Nagar",['Bangalore'],3.7,['1547'],827, Doctor on call  Hair Dryer  Reception  
+109,OYO 11915 Varcity Park,5.5 km,"Near SV Hospitals, Madiwala",['Bangalore'],4.1,['2482'],896, Doctor on call  Reception  Ticket tour assistance  
+110,OYO 87278 Royal Grand Residency,2.5 km,Bangalore Karnataka,"['Bangalore', 'Bangalore']",3.6,['470'],692, AC  TV  Queen Sized Bed  
+111,SPOT ON 48822 Balaji Residency,6.9 km,L N Colony,['Bangalore'],3.6,['613'],449, AC  TV  AC  
+112,Capital O 14203 Chetana Inn,9.0 km,"Centrally Located, Near Shanti Niketan School, Kodigehalli",['Bangalore'],4.3,['1415'],900, Reception  Free Wi-Fi  Power backup  
+113,OYO Townhouse 364 Richmond Road,1.0 km,"Near Baldwin Women College, Richmond Town, Bengaluru",[],4.2,['1673'],1829, Reception  Free Wi-Fi  Power backup  
+114,Capital O 70156 Victorian Comforts,2.4 km,"Near Adams Creation, Victoria Layout",['Bangalore'],4.0,['1312'],1435, Parking facility  Free Wi-Fi  Power backup  
+115,Flagship 18338 White Fort,2.6 km,"Dispensary Rd, Kalasipalya,Bangalore",['Bangalore'],3.9,['1235'],695, Free Wi-Fi  Power backup  Card payment  
+116,OYO 12761 High Street,1.8 km,Near Kalyan silks commercial street,['Bangalore'],4.4,['543'],1362, Parking facility  Reception  Free Wi-Fi  
+117,OYO Townhouse 273 Hosur Main Road Bommanahalli,8.4 km,"Near krishna Theature Bommanahalli, Hosur main road",['Bangalore'],4.5,['1916'],1322, Parking facility  Elevator  Free Wi-Fi  
+118,OYO 9251 Nar Comforts,2.1 km,"NAR Comforts,13, G.K temple street, opp. Vijayalaxmi theater, Chickpet",['Bangalore'],3.9,['1559'],962, AC  TV 
+119,Capital O 68975 The Blueberry's,4.2 km,7th Block,['Bangalore'],3.7,['820'],913, TV  Parking facility  Reception  
+120,SPOT ON 80165 S3 Comforts,8.1 km,Diagonally Opp Sri Krishna Nandagokula Hotel,['Bangalore'],3.7,['280'],571, Hair Dryer  Parking facility  Free Wi-Fi  
+121,Flagship 11640 Hotel Aaira Inn,6.7 km,"Near Uttam Sagar, Banaswadi main road",['Bangalore'],4.2,['1227'],948, Private entrance  Reception  Free Wi-Fi  
+122,Capital O 36457 Boulevard Madiwala,5.5 km,B t m Layout,['Bangalore'],4.3,['2216'],1063, Reception  Free Wi-Fi  Power backup  
+123,OYO 10522 Varcity Emerald,6.2 km,"Near KEB Colony, BTM Layout 1",['Bangalore'],3.7,['1847'],733, Free Wi-Fi  Geyser  Power backup  
+124,OYO 10293 Rajmahal Comforts,7.9 km,"Near Maha Bazar, New Bel Road",['Bangalore'],3.2,['457'],676, Parking facility  Reception  Free Wi-Fi  
+125,OYO Townhouse 273 Hosur Main Road Bommanahalli,8.4 km,"Near krishna Theature Bommanahalli, Hosur main road",['Bangalore'],4.5,['1916'],1322, Hair Dryer  Parking facility  Reception  
+126,Capital O 62949 Regal Suites,4.8 km,"Centrally Located, Near Sagar Hospital, Hombegowda Nagar",['Bangalore'],4.0,['1125'],711, Free Wi-Fi  Geyser  CCTV cameras  
+127,Flagship 700311 S M Residency,8.1 km,Nagarbhavi,['Bangalore'],3.0,['138'],593, Reception  Free Wi-Fi  Power backup  
+128,SPOT ON 71449 Ssr Lodging And Boarding,2.1 km,"Near Jumma masjid, Shivaji Nagar",['Bangalore'],3.5,['274'],573, Reception  Free Wi-Fi  Card payment  
+129,OYO 37297 N R Deluxe,8.2 km,Near Prashant Hospital,['Bangalore'],3.3,['119'],687, Parking facility  Reception  Free Wi-Fi  
+130,OYO 62942 The Royal International Hotel,8.8 km,"Near Robert Bosch Company, Mangammanapalya",['Bangalore'],4.2,['367'],839, Parking facility  Private entrance  Reception  
+131,Collection O BLR2460 Sln Suites,7.2 km,"Behind Baptist Hospital, Hebbal",[],3.5,['261'],550, Doctor on call  Reception  Ticket tour assistance  
+132,OYO 87278 Royal Grand Residency,2.5 km,Bangalore Karnataka,"['Bangalore', 'Bangalore']",3.6,['470'],692, Parking facility  Free Wi-Fi  Power backup  
+133,Capital O 73831 N R Comforts,5.1 km,Koramangala,['Bangalore'],3.6,['165'],846, Parking facility  Free Wi-Fi  Power backup  
+134,Flagship 18338 White Fort,2.6 km,"Dispensary Rd, Kalasipalya,Bangalore",['Bangalore'],3.9,['1235'],695, Parking facility  Reception  Caretaker  
+135,OYO 91325 Nr Royal,7.1 km,"Sector 6, HSR Layout Ward, Bommanahalli Zone, Bengaluru South Urban, Karnataka","['Bangalore', 'Bangalore']",3.3,['190'],576, Hair Dryer  Free Wi-Fi  AC  
+136,OYO 71720 Hotel Fiesta Grand,3.4 km,"Near Mariyappa Road, Jayanagar Ward",['Bangalore'],3.4,['287'],692, Free Wi-Fi  AC  TV 
+137,OYO Townhouse 180 Jayanagar,4.8 km,"Near Sagar Hospital, Tilak Nagar",['Bangalore'],4.5,['3187'],1520, AC  TV 
+138,Capital O 68975 The Blueberry's,4.2 km,7th Block,['Bangalore'],3.7,['820'],913, Parking facility  Reception  Free Wi-Fi  
+139,OYO 23032 New Hotel Mayur Paradise,7.1 km,Near Shamaro Vittal Co-Operative Bank,['Bangalore'],3.5,['118'],550, Doctor on call  Parking facility  Reception  
+140,Capital O 82296 Safari  Rooms,6.0 km,India Bangalore KarnatakaIndia,"['Bangalore', 'Bangalore']",3.6,['86'],687, Parking facility  Elevator  Free Wi-Fi  
+141,OYO 9251 Nar Comforts,2.1 km,"NAR Comforts,13, G.K temple street, opp. Vijayalaxmi theater, Chickpet",['Bangalore'],3.9,['1559'],962, Elevator  Free Wi-Fi  Geyser  
+142,Capital O 12543 3 Square,8.0 km,"Next to Cafe Coffee Day, HBR Layout",['Bangalore'],4.0,['1293'],983, Elevator  Free Wi-Fi  Geyser  
+143,OYO 15695 Varcity Comforts,5.6 km,B t m Layout,['Bangalore'],3.9,['1463'],936, Hair Dryer  Reception  Free Wi-Fi  
+144,OYO BLR2467 Urban Inn,6.9 km,Near Mosque And Above Canara Bank,['Bangalore'],4.4,['1144'],1319, Reception  Free Wi-Fi  Power backup  
+145,OYO 76339 Sai Orchid ,7.5 km,West Zone,['Bangalore'],3.4,['88'],546, Elevator  Free Wi-Fi  Geyser  
+146,OYO Flagship 15776 V R Residency,8.0 km,"Centrally Located, Near 4th block, HBR Layout",['Bangalore'],2.7,['122'],621, Parking facility  Reception  Free Wi-Fi  
+147,Collection O 77217 Amazing Inn,4.6 km,Bhuvanappa Layout,['Bangalore'],3.8,['734'],1188, Reception  Free Wi-Fi  Security  
+148,Capital O 700595 Elite Stay Jp Nagar,7.8 km,6th Phase,['Bangalore'],3.1,['521'],930, Elevator  Free Wi-Fi  Power backup  
+149,OYO Townhouse 82047 Srk Live Inn Castle,4.5 km,Bangalore Urban,"['Bangalore', 'Bangalore']",3.8,['962'],1308, Doctor on call  Hair Dryer  Parking facility  
+150,Flagship 81248 Blooms Residency,8.0 km,Bangalore East,"['Bangalore', 'Bangalore']",4.3,['942'],879, Parking facility  Free Wi-Fi  CCTV cameras  
+151,OYO Home 78310 Crystal Inn,7.9 km,Bilekahalli,['Bangalore'],3.9,['1131'],699, Elevator  Free Wi-Fi  Geyser  
+152,Collection O 701280 Unique Sharavanys,9.9 km,Bda Layout Btm 4th Stage,['Bangalore'],3.4,['26'],550, Parking facility  Free Wi-Fi  Power backup  
+153,Collection O 26188 Domus Regency,8.0 km,"Near Swastha Restaurant, Vijay Nagar",['Bangalore'],5.0,['23'],1257, AC  TV  Mini Fridge  
+154,OYO 852 Kings 10,6.0 km,"Centrally Located, Near, HMT Layout Bus Stop, R.T.Nagar",['Bangalore'],4.2,['493'],1320, Reception  Caretaker  Bedside Table / Desk  
+155,OYO 79381 Dm Residency,9.2 km,Rajarajeshwari Nagar Zone,['Bangalore'],3.6,['205'],562, Free Wi-Fi  Power backup  CCTV cameras  
+156,Capital O 75993 Hotel Shanti Nivas,8.3 km,"Near Yeshwanthpur , Sri Raghavendra Layout",['Bangalore'],4.3,['1149'],905, TV 
+157,SPOT ON 73621 Srinivasa Boarding And Lodging,8.5 km,"Near N R Colony, Sajjepalya",['Bangalore'],3.3,['321'],608, Free Wi-Fi  Power backup  Security  
+158,Townhouse OAK Hotel Prime,8.2 km,"Near Karnataka Bank, Babusapalya Main Road",['Bangalore'],4.5,['1189'],1677, Reception  Free Wi-Fi  Power backup  
+159,OYO 62331 Gn Collection O,6.3 km,"Centrally Located, Near A D Halli Park, Housing Board",['Bangalore'],3.9,['685'],934, Free Wi-Fi  TV  TV  
+160,Capital O 432 Hotel Victoria Heights,2.1 km,"Near St.Philomena's Hospital, Xavier Layout",['Bangalore'],3.9,['915'],1165, Parking facility  Doctor on call  Reception  
+161,SPOT ON 80454 Janapriya Lodge,7.0 km,Bangalore Urban,"['Bangalore', 'Bangalore']",3.7,['435'],774, Hair Dryer  Reception  Free Wi-Fi  
+162,OYO 80376 Santa Maria,6.8 km,Jeevan Bhima Nagar,['Bangalore'],3.8,['680'],965, Parking facility  Reception  Free Wi-Fi  
+163,Capital O 46356 White Mg,2.6 km,"Near INOX Lido Mall, Ulsoor",['Bangalore'],4.5,['92'],3604, Parking facility  Reception  Free Wi-Fi  
+164,Collection O 2318 Hotel Palm Emirates,4.8 km,Tavarekere Main Rd,['Bangalore'],3.9,['858'],956, Parking facility  Reception  Free Wi-Fi  
+165,Townhouse OAK Clove Boutique Hotel Rajaji Nagar,4.0 km,"4th Block, Rajaji Nagar",['Bangalore'],4.6,['1390'],2492, Parking facility  Private entrance  Elevator  
+166,OYO Home 81332 Shiva Shakthi Inn,7.8 km,J P Nagar,['Bangalore'],3.9,['1436'],699, Parking facility  Reception  Free Wi-Fi  
+167,Collection O 31939 CTC Gardenia Residency,2.0 km,India - ,['Bangalore'],5.0,['90'],1658, Parking facility  Reception  Free Wi-Fi  
+168,OYO 9605 Hotel Golden Inn,2.0 km,"Centrally Located, Near HKP Road, Shivaji Nagar",['Bangalore'],3.7,['1547'],827, Parking facility  Elevator  Free Wi-Fi  
+169,Capital O 87938 Royal Manyata,9.4 km,Gate Number 4,['Bangalore'],4.2,['773'],673, Reception  Ticket tour assistance  Designated smoking area  
+170,Flagship 92604 Sp Residency,6.7 km,Btm 2nd Stage,['Bangalore'],2.0,['87'],685, Free Wi-Fi  TV  AC 
+171,Capital O 700590 King Suites -hennur,8.4 km,East Zone,['Bangalore'],4.1,['92'],1030, Parking facility  Private entrance  Reception  
+172,Capital O 5683 Ss Suites,8.3 km,Above Vishal Mega mart,[],4.2,['1706'],1265, AC  TV 
+173,OYO Townhouse 500 Cbm Residency,8.5 km,H s r Layout,['Bangalore'],4.4,['1122'],2164, Elevator  Free Wi-Fi  Geyser  
+174, OYO Townhouse 149 Siri Residency,9.5 km,Bhuvaneswari Nagar,['Bangalore'],4.2,['458'],1003, Free Wi-Fi  Power backup  Card payment  
+175,Flagship 13933 Varcity Pearl,5.4 km,"Near Forum Mall, Koramangala",['Bangalore'],3.9,['3691'],1081, Free Wi-Fi  Power backup  Security  
+176,Capital O 70991 Prime Square,7.6 km,"Centrally Located, Near Kalyan Nagar Bus Stand, 1st stage",['Bangalore'],4.0,['754'],1795, Doctor on call  Private entrance  Reception  
+177,Townhouse OAK SRK White Inn,5.9 km,Koramangala,['Bangalore'],3.7,['1622'],1627, Parking facility  Reception  Free Wi-Fi  
+178,OYO 72404 Naidu Palace,5.2 km,"Near Dhobi Ghat junction, Rajajinagar",['Bangalore'],4.0,['606'],1172, Cot  Power backup  Bedside Table / Desk  
+179,Collection O 27065 Eden Au Lac,5.0 km,"Near Indiranagar Police Station, Indiranagar",['Bangalore'],4.2,['1363'],1470, Parking facility  Reception  Free Wi-Fi  
+180,OYO 10527 Corner Golf View,5.6 km,Domlur,['Bangalore'],3.3,['576'],925, Reception  Power backup  Refrigerator  
+181,OYO 87519 Nra Residency,9.1 km,Rajarajeshwari Nagar,['Bangalore'],3.5,['346'],1014, Parking facility  Reception  Free Wi-Fi  
+182,Townhouse OAK Grand Regency,5.3 km,"Near Varrier Bakery, Rajaji Nagar",['Bangalore'],4.5,['9'],2396, Parking facility  Cot  Free Wi-Fi  
+183,Capital O 88646 Sri Sapthagiri Comforts,7.5 km,India,['Bangalore'],3.5,['136'],687, Doctor on call  Parking facility  Reception  
+184,OYO 13121 Sai Kuteer,8.2 km,"Near MG school, Bilekahalli ",['Bangalore'],3.5,['158'],641, Private entrance  Reception  Power backup  
+185,OYO 3664 Hotel Shivaals Residency,5.1 km,Rajajinagar,['Bangalore'],3.8,['207'],891, Elevator  Free Wi-Fi  Geyser  
+186,Collection O 62387 Emara Grand Hotel,7.9 km,H s r Layout,['Bangalore'],4.0,['38'],1986, Elevator  Free Wi-Fi  Geyser  
+187,OYO Flagship 702689 Hotel Gurudev Residency,2.7 km,India,['Bangalore'],3.3,['134'],906, Reception  Power backup  24/7 check-in  
+188,OYO Flagship 14799 NR Residency,7.2 km,"Near Teacher's colony Park, Jakkasandra",['Bangalore'],3.3,['269'],814, Parking facility  Reception  Free Wi-Fi  
+189,Capital O 67657 Gn Suites,7.4 km,"Near Sub Registrar Office, Banaswadi",['Bangalore'],3.6,['866'],845, Parking facility  Reception  Free Wi-Fi  
+190,OYO Townhouse 038 Banaswadi 100Ft Road,8.1 km,Bangalore,"['Bangalore', 'Bangalore']",3.6,['846'],1605, Elevator  Geyser  Power backup  
+191,Collection O 75506 Hotel Palmtree,3.9 km,"Near Halasuru Metro Station, Ulsoor",['Bangalore'],4.2,['1315'],1868, Elevator  Free Wi-Fi  Geyser  
+192,OYO Flagship 804645 Haven Comforts,7.3 km,Yeswantpur near Railway station,['Bangalore'],4.0,['55'],772, Elevator  Geyser  Power backup  
+193,OYO 10821 Sree Balaji Residency,5.7 km,"Agrahara Dasarahalli, Rajaji Nagar",['Bangalore'],3.7,['227'],752, Hair Dryer  Free Wi-Fi  Power backup  
+194,OYO Flagship 703240 Pride Inn,8.7 km,14 cross Hosur Main road,['Bangalore'],2.9,['125'],626, Parking facility  Elevator  Free Wi-Fi  
+195,OYO 10476 Shree Mookambika Guest House,3.9 km,Kormangla,['Bangalore'],4.2,['375'],1136,
+196,Flagship 92766 Hotel Metro Inn,8.0 km,Amalodbhavi Nagar,['Bangalore'],3.8,['604'],921, Reception  Free Wi-Fi  Power backup  
+197,OYO Townhouse 364 Richmond Road,1.0 km,"Near Baldwin Women College, Richmond Town, Bengaluru",[],4.2,['1673'],1829, Parking facility  Free Wi-Fi  Power backup  
+198,Capital O 14273 Inn@silicon Valley,6.8 km,"Service Road, Koramangala, Bengaluru",[],3.9,['829'],1464,
+199,OYO Townhouse 093 Ramamurthy Nagar,8.6 km,"Near Ramamurthy Nagar Signal,Karnataka",['Bangalore'],4.1,['946'],1370, Parking facility  Reception  Free Wi-Fi  
+200,OYO 29389 Delhi Empire,4.6 km,Near New Delhi Railway Station,"['Delhi', 'Delhi']",3.8,['812'],501, Reception  Free Wi-Fi  Power backup  
+201,Collection O 77161 Shalimar Bagh,7.5 km,Shalimar Village,['Delhi'],4.0,['2749'],698, Free Wi-Fi  AC  TV 
+202,OYO 15515 Hotel Landmark Inn,5.1 km,Near Karol Bagh Metro Station,[],4.7,['4278'],1319, Hair Dryer  Free Wi-Fi  Power backup  
+203,OYO 70893 Kl Khari Inn,6.7 km,"Near Ashok Park Main, Rampura Marg",['Delhi'],4.0,['1419'],562, Parking facility  Reception  Daily housekeeping  
+204,OYO 91776 Hotel Kl Khari Inn,8.6 km,North West Delhi,"['Delhi', 'Delhi']",4.4,['727'],509, Reception  Free Wi-Fi  Power backup  
+205,Flagship 76704 The Mayur Hotel,6.6 km,Tri Nagar,['Delhi'],3.8,['1288'],505, Reception  Free Wi-Fi  Power backup  
+206,Collection O 79953 Rose Inn,9.4 km,Bhalaswa,['Delhi'],4.3,['210'],501, AC  TV 
+207,OYO Townhouse 1130 262 Kailash Enclave,9.0 km,Harsh Vihar,['Delhi'],2.3,['246'],598, Elevator  Free Wi-Fi  Geyser  
+208,OYO 84491 Blue Diamond,6.6 km,"Opp. Metro Pillar No. 102, Near Sai Baba Mandir, Adarsh Nagar",['Delhi'],3.9,['504'],497, Hair Dryer  Reception  Ticket tour assistance  
+209,OYO Townhouse 610 Derawal Nagar,3.4 km,"Near Vinayak Hoptiat, Gujranwala Town",['Delhi'],5.0,['2811'],2550, Private entrance  Reception  Free Wi-Fi  
+210,OYO 49587 Hotel Sai,5.5 km,"A Block - 19, Azadpur, New Delhi 110033",['Delhi'],3.9,['391'],501, Reception  Power backup  Refrigerator  
+211,OYO 91580 The Chill Palace,8.2 km,North West Delhi,"['Delhi', 'Delhi']",4.4,['615'],641, Reception  Free Wi-Fi  Security  
+212,OYO Flagship 703376 Mk Residency,4.7 km,Wazirabad Extension near divine hospital Delhi India,"['Delhi', 'Delhi']",2.3,['16'],564, Elevator  Geyser  Power backup  
+213,OYO Flagship 88508 Hotal Pleasant Inn,7.6 km,Indianull,['Delhi'],5.0,['2'],564, Free Wi-Fi  Geyser  CCTV cameras  
+214,Flagship 701471 Hotel Br International,5.1 km,Paharganj,['Delhi'],2.4,['267'],798, Free Wi-Fi  Geyser  CCTV cameras  
+215,OYO 5411 Hotel City Castle,5.0 km,"Near Karol Bagh, Nai Walan",['Delhi'],4.1,['1926'],1162, Elevator  Free Wi-Fi  Geyser  
+216,OYO Flagship 703050 Hotel Look Like,1.6 km,Timar Paharganj ,['Delhi'],NEW,[],1199, Elevator  Geyser  Power backup  
+217,Collection O 8479 Hotel Ambience,5.3 km,Near New Delhi Railway Station,"['Delhi', 'Delhi']",3.6,['887'],554, Parking facility  Free Wi-Fi  Power backup  
+218,Capital O 81016 First Stay Rooms,5.0 km,India - 110055,['Delhi'],2.6,['108'],682, Reception  Ticket tour assistance  Daily housekeeping  
+219,Flagship 80575 Kashish Residency,3.9 km,Ashok Vihar-3,['Delhi'],3.8,['756'],665, Private entrance  Reception  Power backup  
+220,OYO 74945 Shri Sai Guest House,5.5 km,"Near Adarsh Nagar Metro, Azadpur",['Delhi'],3.6,['408'],692, Hair Dryer  Reception  Free Wi-Fi  
+221,OYO 81119 Hotel Prince,8.6 km,Haiderpur Village,['Delhi'],4.2,['334'],577, Reception  Ticket tour assistance  Caretaker  
+222,Flagship 76903 Rs Hotels,9.0 km,Shiva Market,['Delhi'],3.7,['307'],697, Private entrance  Reception  Free Wi-Fi  
+223,OYO 81393 Hotel C international,5.1 km,shora kothi basant road paharganj,['Delhi'],3.6,['781'],1663, Hair Dryer  Reception  Free Wi-Fi  
+224,OYO 82718 Hotel Stay House,5.0 km,Delhi,"['Delhi', 'Delhi']",3.2,['317'],687, Parking facility  Elevator  Daily housekeeping  
+225,OYO 84491 Blue Diamond,6.6 km,"Opp. Metro Pillar No. 102, Near Sai Baba Mandir, Adarsh Nagar",['Delhi'],3.9,['504'],497, Hair Dryer  Reception  Ticket tour assistance  
+226,Capital O 7845 Hotel Orchid Garden,4.7 km,Near Sarai Rohilla Station,['Delhi'],3.2,['54'],562, Elevator  Free Wi-Fi  Geyser  
+227,Collection O 83831 Golden Key,9.8 km,Near Rajdhani College,['Delhi'],3.8,['1085'],692, Reception  Ticket tour assistance  Caretaker  
+228,Flagship 80575 Kashish Residency,3.9 km,Ashok Vihar-3,['Delhi'],3.8,['756'],665, Private entrance  Reception  Power backup  
+229,OYO 92111 Helooeesh Rooms,9.9 km,Mandoli Extension,['Delhi'],2.6,['51'],621, Free Wi-Fi  Geyser  CCTV cameras  
+230,OYO 87205 Hotel Sapan Plaza,4.5 km,Pahar Ganj,['Delhi'],3.9,['327'],999, Reception  Ticket tour assistance  Free Wi-Fi  
+231,SPOT ON 702129 Hotel Thanks,8.3 km,110092,['Delhi'],2.9,['38'],446, Free Wi-Fi  Geyser  CCTV cameras  
+232,OYO 91580 The Chill Palace,8.2 km,North West Delhi,"['Delhi', 'Delhi']",4.4,['615'],641, Reception  Free Wi-Fi  Security  
+233,Capital O 91609 Hotel Sunberry,8.7 km,Delhi,"['Delhi', 'Delhi']",3.2,['128'],497, Parking facility  Reception  Free Wi-Fi  
+234,OYO Flagship 13277 Hotel International Neelam suites,4.5 km,Near New Delhi Railway Station,"['Delhi', 'Delhi']",2.9,['258'],1199, Elevator  Free Wi-Fi  Geyser  
+235,OYO 74753 Sushma Ssadan,3.7 km,Sawan Park Ashok Vihar Phase 3 Model Town Tehsil,['Delhi'],3.7,['697'],1007, Parking facility  Reception  Free Wi-Fi  
+236,OYO Townhouse 610 Derawal Nagar,3.4 km,"Near Vinayak Hoptiat, Gujranwala Town",['Delhi'],5.0,['2811'],2550, Private entrance  Reception  Free Wi-Fi  
+237,OYO 35981 Rohit Dx,4.5 km,Ram Nagar,['Delhi'],4.0,['275'],1237, Reception  Free Wi-Fi  Refrigerator  
+238,OYO 2984 Hotel Sun City,5.7 km,"Near Karol Bagh, Channa Market",['Delhi'],3.6,['1072'],999, Free Wi-Fi  Power backup  Card payment  
+239,OYO 84536 Royal King,7.9 km,Burari,['Delhi'],1.9,['113'],501, Hair Dryer  Parking facility  Reception  
+240,OYO 92946 Wisteria Residency,8.3 km,"Vijay block near metro pillar 50 , Laxmi Nagar East Delhi ",['Delhi'],3.2,['91'],497, Reception  Ticket tour assistance  Public washroom  
+241,OYO 90025 Pari Residency,9.9 km,New Delhi,"['Delhi', 'Delhi']",3.7,['111'],682, AC  AC  TV  
+242,OYO 14687 Hotel Avtar,4.7 km,Near New Delhi Railway Station,"['Delhi', 'Delhi']",3.7,['24'],1199, Power backup  Bedside Table / Desk  Full Sized Bed  
+243,OYO Flagship 703629 M Stays,8.2 km,Block D,['Delhi'],3.5,['32'],526, Geyser  Power backup  AC  
+244,OYO Flagship 702265 Shelly Home Stay,9.8 km,West Punjabi Bagh,['Delhi'],2.1,['29'],513, Free Wi-Fi  Geyser  CCTV cameras  
+245,OYO Flagship 7844 Hotel KNK,5.4 km,"Near Karol Bagh, WEA",['Delhi'],2.2,['48'],550, Doctor on call  Public washroom  Designated smoking area  
+246,Capital O 10938 Season Grand,8.5 km,Near Pitampura metro station,[],3.4,['633'],934, Private entrance  Parking facility  Reception  
+247,OYO Flagship 703124 Hotel The Royal,8.0 km,Laxmi Nagar 110092,['Delhi'],1.8,['39'],501, Geyser  Power backup  AC  
+248,OYO 74530 Shyam Guest House,4.9 km,"Near RK Ashram Marg Metro Station, Dariba Pan",['Delhi'],4.0,['1'],609, Reception  Free Wi-Fi  Power backup  
+249,OYO Flagship 701855 Hotel Nirman,8.3 km,Haiderpur,['Delhi'],2.5,['23'],501, Free Wi-Fi  Geyser  CCTV cameras  
+250,OYO 44400 Retreat Inn,9.8 km,"Near Block D, Pandav Nagar",['Delhi'],2.7,['64'],626, Reception  Free Wi-Fi  Power backup  
+251,OYO Flagship 62176 Delight Stay,7.9 km,"Centrally Located, Near Nirman Vihar, Guru Angad Nagar West",['Delhi'],3.9,['109'],687, Private entrance  Free Wi-Fi  Power backup  
+252,OYO 86633 Hotel Sp,4.6 km,New Delhi,"['Delhi', 'Delhi']",3.4,['176'],626, Elevator  Free Wi-Fi  Geyser  
+253,OYO 62660 Hotel Park View,6.7 km,"Near Adarsh nagar, Matmy Memar",['Delhi'],3.6,['1423'],850, Hair Dryer  Reception  Power backup  
+254,OYO 86673 Shoolin Residency,8.7 km,Near M2k Cinema,['Delhi'],4.0,['310'],692, Reception  Free Wi-Fi  Caretaker  
+255,OYO 5434 Hotel Delhi Delight,4.5 km,Near Sarai Rohilla Railway Station,['Delhi'],3.4,['573'],999, Free Wi-Fi  Geyser  Power backup  
+256,OYO 5411 Hotel City Castle,5.0 km,"Near Karol Bagh, Nai Walan",['Delhi'],4.1,['1926'],1162, Elevator  Free Wi-Fi  Geyser  
+257,SPOT ON 40016 Hotel Vandana,4.6 km,Near New Delhi Railway Station,"['Delhi', 'Delhi']",3.9,['694'],1296, AC  Parking facility  Free Wi-Fi  
+258,Flagship 46624 Hotel Western,5.7 km,"Near Karol Bagh, Channa Market",['Delhi'],2.7,['101'],621, Reception  Free Wi-Fi  Power backup  
+259,OYO 90747 Dream Palace,8.4 km,Laxmi Nagar,['Delhi'],3.2,['248'],978, Reception  Power backup  24/7 check-in  
+260,OYO Flagship 703050 Hotel Look Like,1.6 km,Timar Paharganj ,['Delhi'],NEW,[],1199, Elevator  Geyser  Power backup  
+261,OYO Townhouse 774 Hotel Toravio,5.1 km,Karol Bagh Tehsil,['Delhi'],3.7,['42'],673, Reception  Public washroom  Caretaker  
+262,Townhouse 750 Billa's Jyot,5.1 km,Near RK Ashram Metro Station,['Delhi'],3.6,['505'],758, Doctor on call  Reception  Ticket tour assistance  
+263,OYO 87292 Exotic Stay Gangaram Hospital,5.0 km,New Delhi,"['Delhi', 'Delhi']",4.2,['17'],550, AC  AC  TV  
+264,Flagship 60410 Ashoka,4.6 km,Near New Delhi Railway Station,"['Delhi', 'Delhi']",3.5,['643'],1199, Elevator  Geyser  Power backup  
+265,OYO Flagship 703376 Mk Residency,4.7 km,Wazirabad Extension near divine hospital Delhi India,"['Delhi', 'Delhi']",2.3,['16'],564, Elevator  Geyser  AC  
+266,OYO 703287 Neelam Hotels,4.5 km,Arya Nagar,['Delhi'],NEW,[],626, Free Wi-Fi  Geyser  CCTV cameras  
+267,Flagship 701115 King Stay,8.6 km,Block N,['Delhi'],3.1,['138'],612, Geyser  Power backup  AC  
+268,OYO Flagship 703893 Sr Residency,9.7 km,Block B,['Delhi'],3.8,['30'],626, Parking facility  Reception  Free Wi-Fi  
+269,OYO Townhouse 381 Dilshad Garden,9.9 km,Pocket E,['Delhi'],3.5,['3500'],1114, Private entrance  Reception  Power backup  
+270,OYO 46761 Hotel Royal King Deluxe,7.9 km,"Near Hariram Sweets, Burari village, Takia Chowk",['Delhi'],3.9,['110'],763, Free Wi-Fi  CCTV cameras  AC  
+271,OYO Townhouse 118 Gagan Vihar,8.6 km,"Near rg stone hospital , Hargobind Enclave",['Delhi'],3.6,['4333'],1442, Geyser  AC  Power backup  
+272,OYO Flagship 804788 Kd Rooms,4.2 km,delhi,['Delhi'],2.3,['16'],626, Doctor on call  Ticket tour assistance  Reception  
+273,OYO Townhouse 778 Hotel Sehej Inn,4.7 km,New Delhi,"['Delhi', 'Delhi']",3.6,['7'],748, Private entrance  Reception  Free Wi-Fi  
+274,Townhouse 939 Hotel Gagan Inn,7.1 km,"Near metro station, patel nagar",['Delhi'],2.4,['166'],1658, Reception  Ticket tour assistance  Caretaker  
+275,OYO Flagsip81100 Hotel Vintage Inn,5.0 km,New Delhi,"['Delhi', 'Delhi']",3.5,['399'],1199, Parking facility  Reception  Free Wi-Fi  
+276,Flagship 18618 Ocean Blue Residency,7.6 km, A-14 Pridarshni Vihar Laxminagar,['Delhi'],2.5,['413'],1241, Doctor on call  Hair Dryer  Reception  
+277,OYO 80289 Hotel Neha Inn,4.5 km,Paharganj,['Delhi'],3.7,['57'],1199, Free Wi-Fi  Geyser  Power backup  
+278,SPOT ON 82420 Hotel Anchal Dx Paharganj,4.9 km,New Delhi,"['Delhi', 'Delhi']",3.9,['1175'],999, Geyser  Power backup  AC  
+279,OYO Flagship 805334 Kashvi Palace,3.7 km,1 st pusta near walia public shool Usmaanpur,['Delhi'],2.9,['20'],882, Elevator  Free Wi-Fi  Geyser  
+280,OYO Townhouse 1130 262 Kailash Enclave,9.0 km,Harsh Vihar,['Delhi'],2.3,['246'],598, Elevator  Geyser  Power backup  
+281,OYO Flagship 703789 Hotel New Singh,6.4 km,Delhi ,"['Delhi', 'Delhi']",3.4,['20'],687, Reception  Free Wi-Fi  Bedside Table / Desk  
+282,Flagship 42522 City Inn Dx,5.3 km,"Near RK ASHRAM, Basant Road Railway Colony",['Delhi'],2.9,['203'],999, Free Wi-Fi  AC  TV 
+283,OYO Townhouse 57 Gujranwala Town,4.0 km,Tehsil,['Delhi'],3.7,['3103'],1640, Living Room  Washing Machine  Balcony  
+284,OYO 1987 Hotel Emporio,4.7 km,"Near Shela Cinema, DB Gupta Road",['Delhi'],3.3,['175'],1500, Doctor on call  Reception  Free Wi-Fi  
+285,OYO 82131 Sahani Guest House,4.6 km,Karol Bagh,['Delhi'],1.0,['2'],550, Reception  Geyser  Power backup  
+286,OYO Flagship 81691 Royal Galaxy ,9.9 km,India - 110092,['Delhi'],3.6,['49'],687, Free Wi-Fi  Geyser  CCTV cameras  
+287,Flagship 701471 Hotel Br International,5.1 km,Paharganj,['Delhi'],2.4,['267'],798, Free Wi-Fi  Geyser  Power backup  
+288,OYO 5401 Hotel Mid Town,5.6 km,Near Karol bagh metro station,[],3.6,['260'],1881, Free Wi-Fi  CCTV cameras  TV  
+289,OYO Townhouse 281 Harsh Vihar.,8.7 km,"Near Pitampura metro , Harsh Vihar",['Delhi'],4.1,['804'],2795, Private entrance  Free Wi-Fi  Power backup  
+290,Collection O 81379 Hotel Green Plaza,7.7 km,H.no.-A3 block A Jagat Puri Red light near SBI bank Jagat Puri East Delhi,"['Delhi', 'Delhi']",4.3,['359'],790, Geyser  Power backup  AC  
+291,OYO Flagship 805144 Red Heart Inn,9.4 km,Nathupura,['Delhi'],NEW,[],564, AC  TV  Attached bathroom 
+292,Collection O 81901 Model Town Metro View,2.8 km,Near Model Town Metro Station,['Delhi'],4.3,['1231'],1915, Geyser  Power backup  AC  
+293,OYO Flagship 82642 Hotel Rohan Inn,4.0 km,Delhi,"['Delhi', 'Delhi']",3.1,['183'],1091, Reception  Free Wi-Fi  Power backup  
+294,OYO 28237 Hotel Bramhaputra,5.0 km,"Centrally Located, Near New Delhi Railway Station","['Delhi', 'Delhi']",3.9,['572'],1269, Elevator  Geyser  Power backup  
+295,OYO Flagship 80595 Hotel D Palace,6.0 km,Shahdra,['Delhi'],NEW,[],564, Reception  Free Wi-Fi  Power backup  
+296,OYO 67901 Hotel Yugh Dx,4.8 km,Near New Delhi Railway Station,"['Delhi', 'Delhi']",2.2,['16'],1199, Free Wi-Fi  Geyser  CCTV cameras  
+297,OYO Flagship 88508 Hotal Pleasant Inn,7.6 km,Indianull,['Delhi'],5.0,['2'],564,
+298,SPOT ON 69054 Anchal Guest House,4.8 km,Near New Delhi Railway Station,"['Delhi', 'Delhi']",3.6,['259'],999, TV  TV 
+299,OYO Flagship 703606 Shakti Residency,3.8 km,Delhi - 110053,"['Delhi', 'Delhi']",NEW,[],699, Geyser  Power backup  AC  
+300,Flagship 701182 The Nest Inn,7.9 km,Near Raj Market,['Kolkata'],4.1,['126'],501, Free Wi-Fi  Geyser  CCTV cameras  
+301,Collection O 5048 Church View,2.0 km,"Near Brand Factory, AJC Bose Road, Maula Ali",['Kolkata'],4.2,['857'],932, Free Wi-Fi  Geyser  Power backup  
+302,Flagship 76255 Airport Comfort Stay,9.9 km,"Near Opposite To Hotel Moon Light, Bediapara",['Kolkata'],4.6,['1904'],706, Free Wi-Fi  Geyser  CCTV cameras  
+303,OYO 36451 Pallyshree Guest House,8.9 km,"Jyangra Sani Mandir, Baguiati Jora Mandir Chinar Park VIP Road Raghunathpur International Airport",['Kolkata'],4.7,['817'],501, AC  TV 
+304,SPOT ON 64196 Silver Green,9.8 km,"Mondal Ganthi Road, Kaikhali, VIP Road Kolkata 700052, West Bengal",['Kolkata'],4.7,['3005'],696, TV  Parking facility  Reception  
+305,OYO Flagship 805126 Hotel New Aamaze Inn,7.6 km,near Vivanta hotel,['Kolkata'],3.9,['20'],618, Elevator  Geyser  Power backup  
+306,Townhouse Oak Hotel Lake View Royal ,4.4 km,East Topsia Road,['Kolkata'],3.9,['449'],1132, Reception  Caretaker  Power backup  
+307,OYO Townhouse 229 Hotel Mannat International,4.2 km,Near Bypass Connector,['Kolkata'],4.4,['6116'],1500, Hair Dryer  Reception  Free Wi-Fi  
+308,OYO Flagship 93522 Kamalakanta Guest House,8.8 km,KOLKATA-700028,['Kolkata'],3.5,['22'],501, Elevator  Free Wi-Fi  Geyser  
+309,OYO 48739 Fantasy Stay,5.9 km,"Near Sector 1, Bidhan Nagar",['Kolkata'],3.7,['674'],645, Private entrance  Reception  Free Wi-Fi  
+310,OYO Townhouse 143 Hotel Royal Garden,3.0 km,"Near Jameson Inn, Park St",['Kolkata'],4.3,['8182'],1500, Reception  Free Wi-Fi  Power backup  
+311,OYO 701502 Roomssolution,7.2 km,Sector 2,['Kolkata'],3.4,['80'],497, Free Wi-Fi  Geyser  CCTV cameras  
+312,Flagship 81224 Hotel Eden,9.0 km,Rajarhat,['Kolkata'],3.7,['318'],546, Reception  Free Wi-Fi  Caretaker  
+313,OYO 92265 Hotel Luxury Stay,6.3 km,"288/2, Block- B, Binoy Krishna Bhawan, Bangur Avenue, 700055",['Kolkata'],3.0,['343'],559, Reception  Caretaker  Bedside Table / Desk  
+314,OYO 1764 Hotel Maruti Lodging,8.8 km,"Above Reliance Trends, Raghunathpur",['Kolkata'],4.0,['358'],501, Parking facility  Elevator  Free Wi-Fi  
+315,Flagship 74334 Hotel Marina,2.7 km,"Near Ladies Park, Beniapukur",['Kolkata'],4.5,['3370'],1496, Reception  Free Wi-Fi  Power backup  
+316,Flagship 74169 Mourigram Near Andul Rd,9.5 km,Howrah,['Kolkata'],4.0,['6125'],863, Reception  Free Wi-Fi  Daily housekeeping  
+317,Flagship 701154 Dream Palace,6.3 km,"Near Acropolis Mall, Rene Tower, Garden High school Kasba",[],4.2,['446'],793, Elevator  Free Wi-Fi  Geyser  
+318,Flagship 701132 Diamond Residency,6.9 km,Shantipally,['Kolkata'],3.5,['145'],497, Free Wi-Fi  Geyser  CCTV cameras  
+319,Flagship 701196 Sonar Bangla Guest House,7.7 km,Near G s t Bhawan,['Kolkata'],4.5,['343'],778, Reception  Free Wi-Fi  CCTV cameras  
+320,Collection O 74257 Gokul Residency Jessore Road,8.6 km,"Near Emami City, Nagerbazar, Dum Dum",['Kolkata'],4.5,['6411'],1339, Private entrance  Reception  Free Wi-Fi  
+321,OYO 48739 Fantasy Stay,5.9 km,"Near Sector 1, Bidhan Nagar",['Kolkata'],3.7,['674'],645, Reception  Caretaker  Bedside Table / Desk  
+322,OYO 92265 Hotel Luxury Stay,6.3 km,"288/2, Block- B, Binoy Krishna Bhawan, Bangur Avenue, 700055",['Kolkata'],3.0,['343'],559, Free Wi-Fi  Geyser  CCTV cameras  
+323,OYO Flagship Monurama Homestay,9.4 km,Purba Diganta,['Kolkata'],2.9,['30'],497, Parking facility  Elevator  Electric Kettle  
+324,OYO 11569 Jalan Lake View,3.9 km,"Near Beliaghata lake side club, Phool Bagan",['Kolkata'],3.5,['563'],808, Reception  Free Wi-Fi  Caretaker  
+325,OYO 92742 Maa Santoshi Inn,9.2 km,"AI Block, Near Tank No 3, Newtown",['Kolkata'],2.6,['41'],497, Parking facility  Elevator  Free Wi-Fi  
+326,OYO 1764 Hotel Maruti Lodging,8.8 km,"Above Reliance Trends, Raghunathpur",['Kolkata'],4.0,['358'],501, Free Wi-Fi  Geyser  CCTV cameras  
+327,Flagship 701196 Sonar Bangla Guest House,7.7 km,Near G s t Bhawan,['Kolkata'],4.5,['343'],778, Reception  Free Wi-Fi  Caretaker  
+328,OYO 701502 Roomssolution,7.2 km,Sector 2,['Kolkata'],3.4,['80'],497, TV  Queen Sized Bed 
+329,Flagship 90948 Hotel Dream Residency,9.1 km,Jangra,['Kolkata'],3.8,['70'],497, Reception  Free Wi-Fi  Caretaker  
+330,SPOT ON 27697 Trisha Guest House,8.6 km,"Behind New Life Nurshing Home, Oppssite Arati cinema, Sahabagan",['Kolkata'],4.3,['1769'],852, Private entrance  Reception  Free Wi-Fi  
+331,OYO 89475 New Hotel City Of Joy,5.2 km,Saltlake Sector 1,['Kolkata'],4.0,['510'],680, Free Wi-Fi  Geyser  CCTV cameras  
+332,Collection O 67194 Hotel Paradise ,9.7 km,Kolkata west Bengal Kolkata,"['Kolkata', 'Kolkata', 'Kolkata']",4.5,['944'],941, Free Wi-Fi  Geyser  CCTV cameras  
+333,Flagship 701182 The Nest Inn,7.9 km,Near Raj Market,['Kolkata'],4.1,['126'],501, Geyser  Power backup 
+334,Flagship 701132 Diamond Residency,6.9 km,Shantipally,['Kolkata'],3.5,['145'],497, AC  TV 
+335,SPOT ON 702888 Diya Guest House,8.3 km,Opposite Baguihati Smart Bazar,['Kolkata'],2.8,['21'],453, Reception  Power backup  24/7 check-in  
+336,OYO Flagship 701787 Relax View Dumdum Park,6.6 km,Dum Dum Park,['Kolkata'],2.8,['53'],535, Free Wi-Fi  AC  Power backup  
+337,OYO 61457 Pinnacle Auberge,9.8 km,Chinar Park Kolkata International Airport Beside Spencers Rajarhat Main Road,['Kolkata'],3.4,['212'],501, Elevator  Free Wi-Fi  Geyser  
+338, Townhouse OAK Kzar Corporate Hotel,1.6 km,Sealdah - Entally,['Kolkata'],4.5,['878'],2112, Elevator  Free Wi-Fi  Geyser  
+339,OYO 14373 Comfort Stays,9.4 km,Rajarhat,['Kolkata'],4.0,['165'],497, Reception  Free Wi-Fi  Daily housekeeping  
+340,OYO Flagship 701555 Pindara Guest House,9.8 km,Kolkata,"['Kolkata', 'Kolkata']",3.7,['131'],551, Elevator  Free Wi-Fi  Geyser  
+341,Flagship 74169 Mourigram Near Andul Rd,9.5 km,Howrah,['Kolkata'],4.0,['6125'],863, Elevator  Free Wi-Fi  Geyser  
+342,Flagship 701567 Dark N Dreams,6.2 km,Near Dhan Math,['Kolkata'],3.7,['62'],508, Free Wi-Fi  Geyser  CCTV cameras  
+343,Flagship 701154 Dream Palace,6.3 km,"Near Acropolis Mall, Rene Tower, Garden High school Kasba",[],4.2,['446'],793, AC  AC  Queen Sized Bed  
+344,Flagship 701201 The Buddha Guest House,9.7 km,Near Vidyasagar Hospital,['Kolkata'],2.9,['44'],687, Reception  Free Wi-Fi  Caretaker  
+345,Capital O 1481 Hotel Heritage,8.8 km,"Teghoria, VIP Road Raghunathpur Airport Haldiram","['Kolkata', 'Kolkata']",4.3,['779'],1122, Free Wi-Fi  AC  Attached Washroom  
+346,Collection O 90950 The Eden,7.7 km,Ward 107,['Kolkata'],3.7,['32'],501, Geyser  Power backup  AC  
+347,Flagship 78267 Flagship City Inn,8.4 km,Avisar Spencer Kalikapur,[],2.9,['294'],564, Elevator  Free Wi-Fi  Geyser  
+348,OYO Flagship 805678 Golden Guest House,7.5 km,kolkata,['Kolkata'],NEW,[],702, AC  TV  Parking facility  
+349,OYO Flagship 93522 Kamalakanta Guest House,8.8 km,KOLKATA-700028,['Kolkata'],3.5,['22'],501, Free Wi-Fi  Power backup  Card payment  
+350,SPOT ON 75881 Sonar Bangla Lodge,3.1 km,"Near Howrah railway station, Howrah AC Market",['Kolkata'],3.3,['795'],1080, Free Wi-Fi  Geyser  Power backup  
+351,OYO 15722 Hotel Padmavati,9.7 km,"Biswa Bangla Sarani Behind Binany Building, Chinar Park, Beside NPG Hotel, Nibedita Apartment  700157",['Kolkata'],4.0,['390'],631, Parking facility  Free Wi-Fi  24/7 check-in  
+352,OYO 5718 Pratiksha Guest House,6.1 km,Bangur Avenue Block B Kolkata West Bengal India 700055,"['Kolkata', 'Kolkata']",3.3,['7'],501, Reception  Free Wi-Fi  Caretaker  
+353,Collection O 81878 Premium Hotel,9.1 km,"1/B/24, AL BLOCK, STREET NO.22,NEW TOWN, RAJARHAT, KOLKATA",[],4.6,['614'],1064, Reception  Free Wi-Fi  CCTV cameras  
+354,Flagship 81224 Hotel Eden,9.0 km,Rajarhat,['Kolkata'],3.7,['318'],546, AC  TV 
+355,Flagship 74641 Delightful Stay Em Byepass,5.7 km,Uttar Panchanna Gram,['Kolkata'],4.0,['2024'],1212, Parking facility  Private entrance  Reception  
+356,OYO 74959 Sataksi Guest House,6.8 km,"CL 246, CL Block, Saltlake Sector 2 Near Sector 5 Metro Station",[],4.7,['677'],1578, Free Wi-Fi  Geyser  CCTV cameras  
+357,Flagship 76629 Bimla Regency,8.8 km,"Police Station, Dum Dum",['Kolkata'],4.0,['487'],687, Parking facility  Reception  Free Wi-Fi  
+358,Flagship 700631 Delight Room,4.6 km,Sector 1,['Kolkata'],2.2,['9'],853, Reception  Caretaker  Power backup  
+359,OYO 88694 Hotel Valentine,6.8 km,Near Acropolis Mall,['Kolkata'],3.3,['135'],682, Free Wi-Fi  Geyser  CCTV cameras  
+360,Townhouse Oak Hotel Lake View Royal ,4.4 km,East Topsia Road,['Kolkata'],3.9,['449'],1132, Free Wi-Fi  Geyser  Power backup  
+361,OYO 90470 Senray Guest House,7.3 km,Rajarhat,['Kolkata'],3.4,['32'],621, Parking facility  Reception  Free Wi-Fi  
+362,OYO 22566 Red Velvet Inn,9.7 km,"Near Chinar Park, Backside of NPG Hotel, Opposite Charnock Hospital",[],3.6,['664'],626, Elevator  Geyser  Power backup  
+363,Flagship 92932 Tumpa Inn,6.5 km,Near Sector-v Metro Station,['Kolkata'],3.4,['76'],604, Reception  Caretaker  Power backup  
+364,OYO Flagship 805126 Hotel New Aamaze Inn,7.6 km,near Vivanta hotel,['Kolkata'],3.9,['20'],618, Geyser  Power backup  AC  
+365,Flagship 88172 Vip Inn Guest House,8.8 km,North 24 Parganas,['Kolkata'],3.0,['213'],614, Elevator  Electric Kettle  Free Wi-Fi  
+366,OYO Flagship 702854 Metro Inn,6.9 km,Kolkata,"['Kolkata', 'Kolkata']",3.4,['21'],606, Parking facility  Reception  Free Wi-Fi  
+367,OYO 11530 Maa Tara Guest House,9.8 km,"Near R.N.Tagore Hospital, Nitainagar",['Kolkata'],3.1,['250'],626, Reception  Free Wi-Fi  Power backup  
+368,OYO Flagship 30696 Pigeon Guest House,7.1 km,,['Kolkata'],3.6,['89'],564, Free Wi-Fi  Geyser  CCTV cameras  
+369,Collection O 74261 Saltlake Palace,6.0 km,4th avenue FF block Bhangar- II south 24 Parganas west Bengal India Kolkata west Bengal India 700091,['Kolkata'],4.4,['207'],1486, Free Wi-Fi  Geyser  AC  
+370,Flagship 701317 Diamond Regency,7.4 km,Near Acropolis Mall,['Kolkata'],3.7,['362'],501, Parking facility  Geyser  Daily housekeeping  
+371,OYO Flagship 701972 Shree Corporate,8.5 km,Sector V,['Kolkata'],4.1,['93'],691, Elevator  Free Wi-Fi  Geyser  
+372,Collection O 85434 Hotel Fortune Stay,9.9 km,Chinar Park,['Kolkata'],4.2,['183'],687, Private entrance  Reception  Public washroom  
+373,OYO 14778 G R Hospitality,7.6 km,"VIP Road Baguihati Kolkata Airport Near Ladies Hostel, Narayantala",['Kolkata'],4.2,['869'],890, Reception  Free Wi-Fi  Power backup  
+374,OYO Townhouse 75779 The Royal Retreat,10.0 km,"Kolkata International Airport, Belghoria Express Way Noapara & Baranagar Metro Station",['Kolkata'],4.4,['4135'],1653, Geyser  Power backup  AC  
+375,Flagship 37100 Apan Guest House,9.9 km,"Near Mukundapur  Bus Stop R.N Tagore Institute of Cardiac Sciences, Narayana Health",['Kolkata'],3.6,['193'],626, Free Wi-Fi  CCTV cameras  AC  
+376,POP 702820 Dream Rooms,6.5 km,Kolkatanull,"['Kolkata', 'Kolkata']",NEW,[],501, Free Wi-Fi  Geyser  CCTV cameras  
+377,OYO Flagship 71381 Adri Hotels,8.4 km,"Near Sarojini Naidu College for Women, Golpark, Dumdum Kolkata",['Kolkata'],4.3,['1348'],1175, Free Wi-Fi  Geyser  CCTV cameras  
+378,OYO Flagship 71945 Relief Inn,8.2 km,Near Oxfoard House School ,['Kolkata'],4.0,['8'],497, AC  TV  King Sized Bed  
+379,OYO Flagship 701974 Hotel Dreamline,8.5 km,Near SBI E-Corner,['Kolkata'],2.4,['8'],501, Hair Dryer  Reception  Free Wi-Fi  
+380,Capital O 85376 Kabita Guest House,9.8 km,Mukundapur Main Road Seven Maddox Square Multi cuisine Restaurant Kolkata EM Bye Pass Opposite Dr. Devi Shetty Hospital,['Kolkata'],4.0,['700'],702, Doctor on call  Reception  Power backup  
+381,Flagship 75235 Hotel Red Rose,8.8 km,Dum Dum,['Kolkata'],3.9,['95'],623, Interconnected room  AC  TV  
+382,OYO 702008 Avenue Inn,6.0 km,Kolkata,"['Kolkata', 'Kolkata']",4.1,['205'],1104, Doctor on call  Reception  Free Wi-Fi  
+383,Flagship 79536 Hotel Rockstar,3.5 km,Kolkata Opposite Bangladesh High Commission) Near A.J.C Bose Flyover,['Kolkata'],4.1,['560'],1262, Reception  Free Wi-Fi  Caretaker  
+384,Townhouse OAK Shubhham Regency,6.2 km,Bidhannagar,['Kolkata'],4.6,['1037'],2562, AC  TV 
+385,OYO 81663 Royal Regency,7.8 km,Rajdanga Main Road,['Kolkata'],4.5,['1109'],948, Elevator  Geyser  Power backup  
+386,Flagship 74922 Penguin Homes,0.7 km,Beside Yogayog Bhavan,['Kolkata'],4.4,['1093'],1959, Free Wi-Fi  Geyser  CCTV cameras  
+387,Collection O 805345 Avenue Regency,8.3 km,Tollygunge,['Kolkata'],NEW,[],947, Private entrance  Reception  Free Wi-Fi  
+388,OYO Flagship 702286 P2 Guest House,7.2 km,India - . ,['Kolkata'],3.4,['8'],497, Parking facility  Free Wi-Fi  Power backup  
+389,OYO 67427 Saga Guest House,5.9 km,Near Cf Block Swimmiming Pool,['Kolkata'],3.5,['81'],769, Geyser  Power backup  AC  
+390,OYO Flagship 82200 Priyangshu Inn,8.9 km,,['Kolkata'],2.3,['7'],618, Reception  Free Wi-Fi  Caretaker  
+391,OYO Flagship 703924 Airport View,9.9 km,India,['Kolkata'],3.6,['11'],626, Reception  Free Wi-Fi  Caretaker  
+392,Capital O 700752 Hotel Dak Plaza,9.4 km,"Near Axis Mall, CE Block, Newtown 700156",['Kolkata'],4.0,['471'],824, Parking facility  Free Wi-Fi  TV  
+393,Capital O 700246 Hotel New All In One,6.6 km,"CK-69, CK Block, Saltlake, Sector 2, West Bengal, 700091",['Kolkata'],4.6,['371'],2205, Parking facility  Free Wi-Fi  Power backup  
+394,OYO Townhouse 1050 Centre Point Inn,1.5 km,Beside K. C. Das Sweet Esplanade Post Office,['Kolkata'],4.3,['1108'],2759,
+395,OYO Flagship Trivedi Inn Near Ruby Hospital,6.8 km,Kasba,['Kolkata'],3.4,['219'],811, Hair Dryer  AC  TV  
+396,OYO 65716 Ma Kali Guest House,5.0 km,"Near FD Block, Bidhannagar",['Kolkata'],3.5,['198'],1217, AC  Attached Washroom  TV  
+397,Flagship 76077 Adri Hotels 2,8.2 km,Near ILS Hospitals Dum Dum Nagerbazar Opposite Bhutan House,['Kolkata'],4.4,['1643'],1099, Parking facility  Free Wi-Fi  Power backup  
+398,Capital O 82197 Fortune Inn,6.8 km,Kasba,['Kolkata'],3.3,['107'],742,
+399,OYO 92262 Ankan Regency,7.5 km,"595, Rajdanga main road, Near KMDA office Kolkata, 700107",['Kolkata'],4.2,['217'],1103, Reception  Free Wi-Fi  Caretaker  
